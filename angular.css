@@ -1,0 +1,57 @@
+.navbar-brand:hover {
+    box-shadow: 0  0  5px rgb(91, 81, 238);  
+}
+
+.nav-item:hover{
+    box-shadow: 0  0  5px rgb(91, 81, 238);
+}
+.container1{
+    width:300px;
+    height: 300px;
+}
+.img{
+    width:500px;
+    height: 400px;
+    
+}
+
+    .container2{
+        background-image: url(circle.svg);
+        width: 600px;
+        height: 500px;  
+        padding-top: 100px; 
+        padding-left: 100px;
+    }
+    .container2:hover{
+        box-shadow: 0  0  5px rgb(91, 81, 238);
+    }
+    .img:hover{
+        box-shadow: 0  0  5px rgb(91, 81, 238);
+    }
+    .img1{
+        widows: 200px; 
+        height: 200px;
+    }
+    .img1:hover{
+            box-shadow: 0  0  5px rgb(91, 81, 238);
+    }
+    .container1{
+        background-image: url(blob-small.svg);
+       background-size: 150% 100%;
+        padding-top: 150px; 
+        padding-left: 200px;
+    
+    }
+    .container1:hover{
+        box-shadow: 0  0  5px rgb(91, 81, 238);
+    
+    }
+    .text-block {
+        position: absolute;
+        padding-top: 100px;
+        padding-left: 250px;
+      }
+      h3:hover{
+        box-shadow: 0  0  5px rgb(91, 81, 238);
+      }
+      
